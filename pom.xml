@@ -1,0 +1,7 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example.eu</groupId> <!-- Replace with your group ID -->
+    <artifactId>maven-thingy</artifactId>
+    <version>1.0.0</version> <!-- Replace with your library version -->
+    <packaging>jar</packaging> <!-- Adjust packaging type as needed -->
+</project>
